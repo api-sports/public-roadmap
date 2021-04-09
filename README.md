@@ -2,7 +2,7 @@
 
 This roadmap contains all improvements and new features we plan for our APIs.
 
-Check the [Kanban board in this project](https://github.com/api-sports/public-roadmap) for an overview.
+Check the [Kanban board in this project](https://github.com/api-sports/public-roadmap/projects/1) for an overview.
 
 Note: This roadmap is only the improvements and new features and not the bugs, for the most part we manage them directly as we see them or as they are reported by our users. To report a bug, you can do it directly from the chat on our [Dashboard](https://dashboard.api-football.com)
 
